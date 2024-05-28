@@ -1,0 +1,42 @@
+body {
+display: flex;
+flex-direction:  column;
+align-items:  center;
+}
+
+img {
+    width: 220px;
+    height: 222px;
+    align-items: center;
+}
+form {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px; 
+    margin: 10px;
+
+}
+label {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+
+margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+input{
+
+    text-align: center;
+    display: block;
+    margin: 20px;
+    width: 300px;
+    color: rgb(232, 219, 219);
+    border-radius: 10px;
+    color: rgb(10, 10, 10);
+
+}
